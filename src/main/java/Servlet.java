@@ -102,7 +102,7 @@ public class Servlet extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Text Redactor Server</title>");
+            out.println("<title>Calculator</title>");
             out.println("</head>");
             out.println("<h1 align='center'><font face = 'Calibri'><b>The result:</b></font><br></h1>");
             out.println("<body>");
